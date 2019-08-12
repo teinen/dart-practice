@@ -1,4 +1,4 @@
-import './spacecraft.dart';
+import 'spacecraft.dart';
 
 void main() {
   var voyager = Spacecraft('Voyager Ⅰ', DateTime(1977, 9, 5));
